@@ -1,0 +1,1872 @@
+
+@font-face {
+    font-family: 'bold';
+    src: url("../fonts/geomanist-bold-webfont.ttf");
+}
+@font-face {
+    font-family: 'light';
+    src: url("../fonts/geomanist-regular-webfont.ttf");
+}
+@font-face {
+    font-family: 'medium';
+    src: url("../fonts/geomanist-medium-webfont.ttf");
+}
+
+@media only screen and (max-width: 600px) {
+
+    .noanuncios_tamaño {
+        font-size: 30px;
+    }
+    .notificaciones {
+        color: #575756;
+        font-size: 17px;
+    }
+    
+    .anuncios h1{
+        font-size: 37px;
+    }
+    .historial h1{
+        font-size: 30px;
+    }
+    
+    .how .text-pregon{
+        font-size: 35px;
+    }
+    .how .btn-general{
+        font-size: 5vw !important;
+    }
+    .how_checklist .text-pregon{
+        font-size: 37px;
+    }
+
+    .ad-description h1{
+        font-size: 30px;
+    }
+    .modulo-anuncios{
+        width: 150px;
+    }
+     .modulo-pagos{
+        width: 93px;
+    }
+    .modulo-comoanunciar{
+        width: 99px;
+    }
+
+    .noanuncios_tamaño{
+        font-size: 80px;
+    }
+
+    .notificaciones{
+        color:#575756;
+        font-size: 45px;
+    }
+
+
+    .btn-black{
+        width: 100% ;
+    }
+    .btn-general{
+        width: 100% ;
+    }
+
+    .btn-vermas{
+        background:#DA0080 !important;
+    }
+    .login-color{
+        background:#DA0080 !important;
+    }
+
+    .home h1{
+        color:#DA0080;
+    }
+    .color-numero{
+        color:#DA0080;
+    }
+
+
+    .letra-proyecto{
+
+        margin-top: -40px;
+    }
+.iconos-trabaja{
+
+    width: 161px;
+
+}
+
+.estilo-button{
+    margin-top: -15px;
+}
+.margen-trabaja{
+    margin-top: -45px !important;
+}
+.main-header{
+    background: #DA0080!important;
+}
+
+.bg-welcome{
+        background:#DA0080;
+    }
+
+.bg-welcome1{
+        background:#DA0080;
+        height: 769px;
+ }
+
+
+ .bg-welcome .logo-welcome{
+        width: 122px
+    }
+
+  .bg-welcome1 .logo-welcome{
+        width: 122px
+    }
+
+.logo-welcome
+ {
+    width: 160px;
+    margin-right: 102px;
+}
+
+.bg-welcome .logo-imagen{
+        width: 300px;
+    }
+
+footer{
+    position:relative;
+    left:0px;
+    bottom:0px;
+    height: 270px;
+    width:100%;
+    background:#242729;
+}
+
+a:hover,a:focus{
+text-decoration:none;
+color: #fff !important;
+
+}
+a{
+    color: #fff !important;
+}
+.btn-redimelo{
+    background:#DA0080;
+    font-size: 22px !important;
+    width: 200px;
+    color: #fff;
+    border-radius: 49px !important;
+}
+
+.btn-redimeloform{
+    background:#242729;
+    width: 326px;
+    border-radius: 49px !important;
+    color:#fff !important;
+}
+
+.margen{
+    margin-bottom: 83px; 
+}
+
+.margin-texto{
+    margin-top: -36px;
+}
+
+.trabajo{
+    padding-left: 195px;
+}
+.vista-redimelo{
+background: #780052
+}
+.bg-welcome3{
+    background: #B8013B;
+
+}
+.como-funciona{
+    color: #B8013B;
+    
+}
+.letra-empezar{
+    font-size: 30px !important;
+    margin-left: 15px;
+    margin-top: -25px;
+}
+.bg-welcome h1{
+    font-family: 'bold';
+}
+.margen-derecha a{
+    font-family: 'medium';
+}
+.letra-redimelo a{
+    font-family: 'bold';
+}
+.color-redimelo h1{
+    font-family: 'bold';
+}
+
+.color-redimelo h2{
+    font-family: 'light';
+}
+.color-redimelo label{
+    font-family: 'light';
+}
+
+.color-redimelo button{
+
+    font-family: 'light';
+
+}
+.bg-welcome3 h1 {
+    font-family: 'bold';
+}
+
+.bg-welcome3 li {
+    font-family: 'light';
+}
+.bg-welcome3 h3 {
+    font-family: 'light';
+}
+.bg-welcome3 p {
+    font-family: 'bold';
+}
+.text-center h1{
+    font-family: 'bold';
+}
+
+.container h4{
+    font-family: 'bold';
+}
+.container h1{
+    font-family: 'bold';
+}
+
+.como-funciona label{
+    font-family: 'light';
+}
+
+.bg-welcome4{
+    background: #CB702C;
+}
+
+.pregon{
+    color:#CB702C
+}
+
+.margen-pauta{
+    margin-top: -31px!important;
+}
+.bg-welcome4 h2{
+    font-family: 'bold';
+}
+.bg-welcome4 h4{
+    font-family: 'bold';
+}
+
+.bg-welcome4 p{
+
+    font-family: 'light';
+}
+
+.bg-welcome4 li {
+
+    font-family: 'light';
+}
+.trabajatext{
+    padding-right: 15px;
+    padding-left: 29px;
+    margin-right: auto;
+    margin-left: auto !important;
+}
+.formulariopregon{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.conpauta{
+    padding-right: 15px;
+    padding-left: 29px;
+    margin-right: auto;
+    margin-left: auto;
+}
+}
+
+@media screen and (max-width: 365px) {
+    .logo-welcome
+    {
+        width: 158px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .logo-welcome
+    {
+        width: 111px;
+    }
+}
+
+
+@media only screen and (min-width: 600px) {
+
+    .home .btn-general{
+        background-color:#DA0080;
+        font-size: 30px;
+        font-weight: bold;
+        border-radius: 49px !important;
+    }
+    .ad-description .btn-general{
+        background-color:#DA0080;
+        font-size: 19px;
+        padding-right: 38px;
+        padding-left: 38px;
+        font-weight: bold;
+    }
+    .btn-backmenu .btn-general{
+        padding-right: 48px;
+        padding-left: 47px;
+        color: #000000;
+
+    }
+    .modulo-anuncios{
+        width: 252px;
+    }
+    .modulo-pagos{
+        width: 165px;
+    }
+    .modulo-pagos{
+        width: 175px;
+    }
+
+    .noanuncios_tamaño{
+        font-size: 80px;
+    }
+    .notificaciones{
+        color:#575756;
+        font-size: 45px;
+
+    }
+    .btn-checklist .btn-general{
+        padding-right: 45px;
+        padding-left: 45px;
+        color: #000000;
+    }
+    .ad-description h1{
+        font-size: 30px;
+    }
+    .btn-checklist-lg{
+        display: none !important;
+    }
+    .btn-checklist-sm .btn-general{
+        font-size: 18px;
+        padding-left: 70px;
+        padding-right: 70px;
+        color: #000000;
+
+    }
+    .btn-checklist-sm .contactar{
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .checklist .btn-general{
+        font-size: 20px;
+        color: #000000;
+        background-color:#DA0080;
+
+    }
+    .noanuncios_tamaño {
+        font-size: 38px;
+    }
+    .notificaciones {
+        color: #575756;
+        font-size: 25px;
+    }
+    .savechecklist .btn-general{
+        background-color:#DA0080;
+        font-size: 25px;
+        color: #000000;
+        font-weight: bold;
+    }
+    .sin-anuncios .btn-general{
+        background-color:#DA0080;
+        font-size: 25px;
+        color: #000000;
+        font-weight: bold;
+    }
+     .how .text-pregon{
+        font-size: 35px;
+    }
+
+
+    .home h1{
+        color:#DA0080;
+    }
+    .color-numero{
+        color:#DA0080;
+    }
+
+    .btn-vermas{
+        background:#DA0080 !important;
+    }
+    .login-color{
+        background:#DA0080 !important;
+    }
+
+    .conpauta{
+        padding-right: 15px;
+        padding-left: 29px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    .trabajatext{
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+
+    .formulariopregon{
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+
+    }
+    .estilo-button{
+        margin-top: -15px;
+    }
+
+    .margen-pauta{
+        margin-top: -51px!important;
+    }
+
+    .iconos-trabaja{
+
+        width: 161px;
+    
+    }
+    .bg-welcome{
+        background:#DA0080;
+    }
+
+.bg-welcome1{
+        background:#DA0080;
+        height: 769px;
+ }
+
+
+ .bg-welcome .logo-welcome{
+        width: 122px
+    }
+
+  .bg-welcome1 .logo-welcome{
+        width: 122px
+    }
+
+ .bg-welcome .logo-
+ {
+       width: 276px;
+    }
+
+footer{
+    position:relative;
+    left:0px;
+    bottom:0px;
+    height: 270px;
+    width:100%;
+    background:#242729;
+}
+
+a:hover,a:focus{
+text-decoration:none;
+color: #fff !important;
+
+}
+a{
+    color: #fff !important;
+}
+.btn-redimelo{
+    background:#DA0080;
+    font-size: 22px !important;
+    width: 200px;
+    color: #fff;
+}
+
+.btn-redimeloform{
+    background:#242729;
+    width: 326px;
+    border-radius: 49px !important;
+    color:#fff !important;
+}
+
+.margen{
+    margin-bottom: 83px; 
+}
+
+.bg-welcome .logo-imagen{
+        width: 400px;
+    }
+
+.vista-redimelo{
+background: #780052
+}
+
+.logo-welcome
+ {
+       width: 156px;
+       margin-right: 286px;
+}
+
+.bg-welcome3{
+    background: #B8013B;
+
+}
+
+.main-header{
+    background: #DA0080 !important;
+}
+.como-funciona{
+    color: #B8013B;
+    text-align: center;
+}
+.letra-empezar{
+    font-size: 31px !important;
+}
+
+.bg-welcome h1{
+    font-family: 'bold';
+}
+.margen-derecha a{
+    font-family: 'medium';
+}
+.letra-redimelo a{
+    font-family: 'bold';
+}
+.color-redimelo h1{
+    font-family: 'bold';
+}
+
+.color-redimelo h2{
+    font-family: 'light';
+}
+.color-redimelo label{
+    font-family: 'light';
+}
+
+.color-redimelo button{
+
+    font-family: 'light';
+
+}
+.bg-welcome3 h1 {
+    font-family: 'bold';
+}
+
+.bg-welcome3 li {
+    font-family: 'light';
+}
+.bg-welcome3 h3 {
+    font-family: 'light';
+}
+.bg-welcome3 p {
+    font-family: 'bold';
+}
+.text-center h1{
+    font-family: 'bold';
+}
+
+.container h4{
+    font-family: 'bold';
+}
+.container h1{
+    font-family: 'bold';
+}
+
+.como-funciona label{
+    font-family: 'light';
+}
+
+.bg-welcome4{
+    background: #CB702C;
+}
+.pregon{
+    color:#CB702C
+}
+.bg-welcome4 h2{
+    font-family: 'bold';
+}
+.bg-welcome4 h4{
+    font-family: 'bold';
+}
+
+.bg-welcome4 p{
+
+    font-family: 'light';
+}
+
+.bg-welcome4 li {
+
+    font-family: 'light';
+}
+
+
+    }
+
+    /* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+    .home .btn-general{
+        background-color: #DA0080;
+        font-size: 32px;
+        border-radius: 13px !important;
+        width: 277px;
+    }
+    .modulo-anuncios{
+        width: 200px;
+    }
+    .modulo-pagos{
+        width: 109px;
+    }
+    .modulo-comoanunciar{
+        width: 116px;
+    }
+    .noanuncios_tamaño{
+        font-size: 80px;
+    }
+    .notificaciones{
+        color:#575756;
+        font-size: 45px;
+
+    }
+    .ad-description .btn-general{
+        background-color:#DA0080;
+        font-size: 19px;
+        padding-right: 38px;
+        padding-left: 38px;
+        font-weight: bold;
+    }
+    .btn-backmenu .btn-general{
+        padding-right: 48px;
+        padding-left: 47px;
+        color: #000000;
+
+    }
+    .btn-checklist .btn-general{
+        padding-right: 45px;
+        padding-left: 45px;
+        color: #000000;
+    }
+    .checklist .btn-general{
+        color: #000000;
+        font-size: 23px;
+    }
+    .btn-checklist-lg{
+        display: none !important;
+    }
+    .btn-checklist-sm .btn-general{
+        font-size: 18px;
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+    .btn-checklist-sm .contactar{
+        padding-left: 25px;
+        padding-right: 25px;
+    }
+    .checklist .btn-general{
+        font-size: 20px;
+        color: #000000;
+    }
+     .noanuncios_tamaño {
+        font-size: 45px;
+    }
+     .notificaciones {
+        color: #575756;
+        font-size: 26px;
+    }
+    .savechecklist .btn-general{
+        background-color:#DA0080;
+        font-size: 25px;
+        color: #000000;
+        font-weight: bold;
+    }
+    .sin-anuncios .btn-general{
+        background-color:#DA0080;
+        font-size: 25px;
+        font-weight: bold;
+    }
+     .how .text-pregon{
+        font-size: 35px;
+        font-weight: bold;
+    }
+
+    .home h1{
+        color:#DA0080;
+    }
+    .color-numero{
+        color:#DA0080;
+    }
+
+    .btn-vermas{
+        background:#DA0080 !important;
+    }
+    .login-color{
+        background:#DA0080 !important;
+    }
+
+    .iconos-trabaja{
+
+        width: 161px;
+    
+    }
+
+      .bg-welcome{
+        background:#DA0080;
+    }
+
+.bg-welcome1{
+        background:#DA0080;
+        height: 769px;
+ }
+
+
+ .bg-welcome .logo-welcome{
+        width: 122px
+    }
+
+  .bg-welcome1 .logo-welcome{
+        width: 122px
+    }
+
+ .bg-welcome .logo-
+ {
+       width: 276px;
+    }
+
+footer{
+    position:inherit;
+    left:0px;
+    bottom:0px;
+    height: 270px;
+    width:100%;
+    background:#242729;
+}
+
+a:hover,a:focus{
+text-decoration:none;
+color: #fff !important;
+
+}
+a{
+    color: #fff !important;
+}
+.btn-redimelo{
+    background:#DA0080;
+    font-size: 22px !important;
+    width: 200px;
+    color: #fff;
+}
+
+.btn-redimeloform{
+    background:#242729;
+    width: 326px;
+    border-radius: 49px !important;
+    color:#fff !important;
+}
+
+.margen{
+    margin-bottom: 83px; 
+}
+
+.vista-redimelo{
+background: #780052
+}
+.logo-welcome
+ {
+       width: 156px;
+}
+
+.bg-welcome3{
+    background: #B8013B;
+
+}
+
+.main-header{
+    background: #DA0080 !important;
+}
+
+.como-funciona{
+    color: #B8013B;
+}
+.bg-welcome h1{
+    font-family: 'bold';
+}
+.margen-derecha a{
+    font-family: 'medium';
+}
+.letra-redimelo a{
+    font-family: 'bold';
+}
+.color-redimelo h1{
+    font-family: 'bold';
+}
+
+.color-redimelo h2{
+    font-family: 'light';
+}
+.color-redimelo label{
+    font-family: 'light';
+}
+
+.color-redimelo button{
+
+    font-family: 'light';
+
+}
+.bg-welcome3 h1 {
+    font-family: 'bold';
+}
+
+.bg-welcome3 li {
+    font-family: 'light';
+}
+.bg-welcome3 h3 {
+    font-family: 'light';
+}
+.bg-welcome3 p {
+    font-family: 'bold';
+}
+.text-center h1{
+    font-family: 'bold';
+}
+
+.container h4{
+    font-family: 'bold';
+}
+.container h1{
+    font-family: 'bold';
+}
+
+.como-funciona label{
+    font-family: 'light';
+}
+.bg-welcome4{
+    background: #CB702C;
+}
+.pregon{
+    color:#CB702C
+}
+.bg-welcome4 h2{
+    font-family: 'bold';
+}
+.bg-welcome4 h4{
+    font-family: 'bold';
+}
+
+.bg-welcome4 p{
+
+    font-family: 'light';
+}
+
+.bg-welcome4 li {
+
+    font-family: 'light';
+}
+
+    }
+
+@media only screen and (min-width: 992px) {
+
+    .btn-general{
+        background-color:#DA0080;
+        font-size: 36px;
+        border-radius: 49px !important;
+    }
+    .modulo-anuncios{
+        width: 240px;
+    }
+    .modulo-pagos{
+        width: 131px;
+    }
+    .modulo-comoanunciar{
+        width: 139px;
+    }
+    .noanuncios_tamaño{
+        font-size: 80px;
+    }
+    .notificaciones{
+        color:#575756;
+        font-size: 45px;
+
+        }
+    .ad-description p{
+        font-size: 22px;
+    }
+    .btn-checklist-sm{
+        display: none !important;
+    }
+    .btn-checklist-lg{
+        display: block !important;
+    }
+    .checklist .btn-general{
+        font-size: 36px;
+        color: #000000;
+    }
+    .noanuncios_tamaño {
+        font-size: 50px;
+    }
+    .notificaciones {
+        color: #575756;
+        font-size: 30px;
+    }
+    .savechecklist .btn-general{
+        font-size: 31px;
+        color: #000000;
+        font-weight: bold;
+    }
+    .sin-anuncios .btn-general{
+        font-size: 31px;
+        font-weight: bold;
+    }
+
+    .home h1{
+        color:#DA0080;
+    }
+    .color-numero{
+        color:#DA0080;
+    }
+
+    .btn-vermas{
+        background:#DA0080 !important;
+    }
+    .login-color{
+        background:#DA0080 !important;
+    }
+
+
+.bg-welcome{
+        background:#DA0080;
+    }
+
+.bg-welcome1{
+        background:#DA0080;
+        height: 769px;
+ }
+
+
+ .bg-welcome .logo-welcome{
+        width: 122px
+    }
+
+  .bg-welcome1 .logo-welcome{
+        width: 122px
+    }
+
+ .bg-welcome .logo-imagen{
+        width: 400px;
+    }
+
+footer{
+    position:inherit;
+    left:0px;
+    bottom:0px;
+    height:200px;
+    width:100%;
+    background:#242729;
+}
+
+a:hover,a:focus{
+text-decoration:none;
+color: #fff !important;
+
+}
+a{
+    color: #fff !important;
+}
+.btn-redimelo{
+    background:#DA0080;
+    font-size: 22px !important;
+    width: 200px;
+    color: #fff;
+}
+
+.btn-redimeloform{
+    background:#DA0080;
+    width: 326px;
+    border-radius: 49px !important;
+    color:#fff !important;
+}
+.logo-welcome{
+        width: 122px
+    }
+
+.vista-redimelo{
+background: #780052
+}
+.bg-welcome3{
+    background: #B8013B;
+
+}
+
+.main-header{
+    background: #DA0080 !important;
+}
+
+.como-funciona{
+    color: #B8013B;
+}
+.bg-welcome h1{
+    font-family: 'bold';
+}
+.margen-derecha a{
+    font-family: 'medium';
+}
+.letra-redimelo a{
+    font-family: 'bold';
+}
+.color-redimelo h1{
+    font-family: 'bold';
+}
+
+.color-redimelo h2{
+    font-family: 'light';
+}
+.color-redimelo label{
+    font-family: 'light';
+}
+
+.color-redimelo button{
+
+    font-family: 'light';
+
+}
+.bg-welcome3 h1 {
+    font-family: 'bold';
+}
+
+.bg-welcome3 li {
+    font-family: 'light';
+}
+.bg-welcome3 h3 {
+    font-family: 'light';
+}
+.bg-welcome3 p {
+    font-family: 'bold';
+}
+.text-center h1{
+    font-family: 'bold';
+}
+
+.container h4{
+    font-family: 'bold';
+}
+.container h1{
+    font-family: 'bold';
+}
+
+.como-funciona label{
+    font-family: 'light';
+}
+.bg-welcome4{
+    background: #CB702C;
+}
+.pregon{
+    color:#CB702C
+}
+
+.bg-welcome4 h2{
+    font-family: 'bold';
+}
+.bg-welcome4 h4{
+    font-family: 'bold';
+}
+
+.bg-welcome4 p{
+
+    font-family: 'light';
+}
+
+.bg-welcome4 li {
+
+    font-family: 'light';
+}
+.texttrabajale{
+    margin-left: 366px !important;
+}
+.margen-texttrabajarig{
+    margin-right: -193px !important;
+}
+}
+
+@media only screen and (min-width: 1200px) {
+
+    .btn-black{
+        background:#242729;
+        width: 273px;
+        font-size: 22px !important;
+    }
+    .home{
+        padding-bottom: 29px;
+    }
+
+    .home h1{
+        color:#DA0080;
+
+    }
+    .color-numero{
+        color:#DA0080;
+    }
+
+    .btn-vermas{
+        background:#DA0080 !important;
+    }
+    .login-color{
+        background:#DA0080 !important;
+    }
+
+.margen-login{
+        padding-bottom: 367px !important;
+    }
+    
+
+.bg-welcome{
+        background:#DA0080;
+    }
+
+.bg-welcome1{
+        background:#DA0080;
+        height: 769px;
+ }
+
+ .bg-welcome h1{
+    font-family: 'bold';
+}
+.margen-derecha a{
+    font-family:'medium';
+}
+.letra-redimelo a{
+    font-family: 'bold';
+}
+.color-redimelo h1{
+    font-family: 'bold';
+}
+
+.color-redimelo h2{
+    font-family: 'light';
+}
+.color-redimelo label{
+    font-family: 'light';
+}
+
+.color-redimelo button{
+
+    font-family: 'light';
+
+}
+.bg-welcome3 h1 {
+    font-family: 'bold';
+}
+
+.bg-welcome3 li {
+    font-family: 'light';
+}
+.bg-welcome3 h3 {
+    font-family: 'light';
+}
+.bg-welcome3 p {
+    font-family: 'bold';
+}
+.text-center h1{
+    font-family: 'bold';
+}
+
+.container h4{
+    font-family: 'bold';
+}
+.container h1{
+    font-family: 'bold';
+}
+
+.como-funciona label{
+    font-family: 'light';
+}
+ .logo-welcome{
+    width: 22%;
+    }
+
+  .bg-welcome1 .logo-welcome{
+    width: 122px;
+    margin-left: 139px;
+    }
+
+ .bg-welcome .logo-imagen{
+        width: 400px;
+        margin-right: -66px;
+    }
+
+footer{
+    position:relative;
+    left:0px;
+    bottom:0px;
+    height:225px;
+    width:100%;
+    background:#242729;
+}
+
+
+a:hover,a:focus{
+text-decoration:none;
+color: #fff !important;
+
+}
+a{
+    color: #fff !important;
+}
+.btn-redimelo{
+    background:#DA0080;
+    font-size: 22px !important;
+    width: 200px;
+    color: #fff;
+    border-radius: 49px !important;
+    
+}
+
+.btn-redimeloform{
+    background:#242729;
+    width: 100px;
+    border-radius: 49px !important;
+    color:#fff !important;
+}
+
+.margin-texto{
+    margin-top: 140px;
+}
+
+.margen1{
+
+    padding-top: 80px;
+}
+
+.texto-redime{
+
+    margin-top: 50px;
+
+}
+
+.bg-welcome3{
+    background: #B8013B;
+
+}
+.main-header{
+    background: #DA0080 !important;
+}
+
+.como-funciona{
+    color: #B8013B;
+    
+}
+
+.bg-welcome4{
+    background: #CB702C;
+}
+
+.margen{
+        /* padding-bottom: 6px;  */
+
+}
+.trabajo{
+    padding-left: 195px;
+}
+.vista-redimelo{
+background: #780052
+}
+
+.color-redimelo
+{
+    padding-bottom: 245px;
+    padding-top: 83px;
+}
+
+.margen-derecha{
+    margin-left: 154px;
+}
+
+.pregon{
+    color:#CB702C
+    
+}
+.bg-welcome4 h2{
+    font-family: 'bold';
+}
+.bg-welcome4 h4{
+    font-family: 'bold';
+}
+
+.bg-welcome4 h3{
+
+    font-family: 'light';
+}
+
+.bg-welcome4 li {
+
+    font-family: 'light';
+}
+
+.margen-pauta{
+    margin-top: 35px !important;   
+    margin-left: 346px;
+
+}
+.trabajatext{
+    margin-left: 366px !important;
+}
+.margen-texttrabajarig{
+    margin-right: -193px !important;
+}
+.letra-empezar{
+    margin-right: 122px;
+    margin-top: 36px;
+}
+.letra-from{
+    margin-left: -177px;
+
+}
+.marge-hacemos{
+    margin-left: 220px;
+}
+.letra-proyecto{
+
+    margin-top: 54px;
+}
+
+}
+
+@media only screen and (min-width: 1024px) {
+    .trabajatext{
+        margin-left: 121px !important;
+    }
+    .margen-texttrabajarig{
+        margin-right: -23px !important;;
+    }
+    .margen-login{
+        padding-bottom: 367px !important;
+    }
+
+    .btn-vermas{
+        background:#DA0080 !important;
+    }
+    .login-color{
+        background:#DA0080 !important;
+    }
+    .home h1{
+        color:#DA0080;
+    }
+    .color-numero{
+        color:#DA0080;
+    }
+    
+}
+@media(min-width:768px) and (max-width:1024px) {
+
+    .btn-vermas{
+        background:#DA0080 !important;
+    }
+    .login-color{
+        background:#DA0080 !important;
+    }
+    
+    .trabajatext{
+        margin-left: 371px !important;
+    }
+    .margen-texttrabajarig{
+        margin-right: -23px !important;;
+    }
+    .margen-login{
+        padding-bottom: 367px !important;
+    }
+    .home h1{
+        color:#DA0080;
+    }
+    .color-numero{
+        color:#DA0080;
+    }
+    
+  }
+  @media only screen and (min-width:768 ) and (max-width: 1366px) {
+
+
+    .btn-vermas{
+        background:#DA0080 !important;
+    }
+    .login-color{
+        background:#DA0080 !important;
+    }
+    
+    .bg-welcome{
+        background:#DA0080;
+    }
+
+    .home h1{
+        color:#DA0080;
+    }
+    .color-numero{
+        color:#DA0080;
+    }
+
+.bg-welcome1{
+        background:#DA0080;
+        height: 769px;
+ }
+
+ .bg-welcome h1{
+    font-family: 'bold';
+}
+.margen-derecha a{
+    font-family:'medium';
+}
+.letra-redimelo a{
+    font-family: 'bold';
+}
+.color-redimelo h1{
+    font-family: 'bold';
+}
+
+.color-redimelo h2{
+    font-family: 'light';
+}
+.color-redimelo label{
+    font-family: 'light';
+}
+
+.color-redimelo button{
+
+    font-family: 'light';
+
+}
+.bg-welcome3 h1 {
+    font-family: 'bold';
+}
+
+.bg-welcome3 li {
+    font-family: 'light';
+}
+.bg-welcome3 h3 {
+    font-family: 'light';
+}
+.bg-welcome3 p {
+    font-family: 'bold';
+}
+.text-center h1{
+    font-family: 'bold';
+}
+
+.container h4{
+    font-family: 'bold';
+}
+.container h1{
+    font-family: 'bold';
+}
+
+.como-funciona label{
+    font-family: 'light';
+}
+ .logo-welcome{
+    width: 22%;
+    }
+
+  .bg-welcome1 .logo-welcome{
+    width: 122px;
+    margin-left: 139px;
+    }
+
+ .bg-welcome .logo-imagen{
+        width: 400px;
+        margin-right: -66px;
+    }
+
+footer{
+    position:relative;
+    left:0px;
+    bottom:0px;
+    height:225px;
+    width:100%;
+    background:#242729;
+}
+
+
+a:hover,a:focus{
+text-decoration:none;
+color: #fff !important;
+
+}
+a{
+    color: #fff !important;
+}
+.btn-redimelo{
+    background:#DA0080;
+    font-size: 22px !important;
+    width: 200px;
+    color: #fff;
+    border-radius: 49px !important;
+    
+}
+
+.btn-redimeloform{
+    background:#242729;
+    width: 100px;
+    border-radius: 49px !important;
+    color:#fff !important;
+}
+
+.margin-texto{
+    margin-top: 140px;
+}
+
+.margen1{
+
+    padding-top: 80px;
+}
+
+.texto-redime{
+
+    margin-top: 50px;
+
+}
+
+.bg-welcome3{
+    background: #B8013B;
+
+}
+.main-header{
+    background: #DA0080 !important;
+}
+
+.como-funciona{
+    color: #B8013B;
+    
+}
+
+.bg-welcome4{
+    background: #CB702C;
+}
+
+.margen{
+        /* padding-bottom: 6px;  */
+
+}
+.trabajo{
+    padding-left: 195px;
+}
+.vista-redimelo{
+background: #780052
+}
+
+.color-redimelo
+{
+    padding-bottom: 245px;
+    padding-top: 83px;
+}
+
+.margen-derecha{
+    margin-left: 154px;
+}
+
+.pregon{
+    color:#CB702C
+    
+}
+.bg-welcome4 h2{
+    font-family: 'bold';
+}
+.bg-welcome4 h4{
+    font-family: 'bold';
+}
+
+.bg-welcome4 h3{
+
+    font-family: 'light';
+}
+
+.bg-welcome4 li {
+
+    font-family: 'light';
+}
+
+.margen-pauta{
+    margin-top: 35px !important;   
+    margin-left: 101px;
+
+}
+.trabajatext{
+    margin-left: 371px !important;
+}
+.margen-texttrabajarig{
+    margin-right: -191px !important;
+}
+.letra-empezar{
+    margin-right: 122px;
+    margin-top: 36px;
+}
+.letra-from{
+    margin-left: -177px;
+
+}
+.marge-hacemos{
+    margin-left: 342px;
+}
+.letra-proyecto{
+
+    margin-top: 54px;
+}
+
+.conpauta{
+    padding-right: 112px;
+    padding-left: 311px;
+    margin-right: auto;
+    margin-left: auto;
+} 
+}
+
+@media screen and (min-width: 1080px) and (max-width: 1920px) {
+
+.banner-login{
+    padding-bottom: 409px;
+}
+    .btn-vermas{
+        background:#DA0080 !important;
+    }
+    .login-color{
+        background:#DA0080 !important;
+    }
+
+    .home h1{
+        color:#DA0080;
+    }
+    .color-numero{
+        color:#DA0080;
+    }
+    .margen-login{
+        padding-bottom: 367px !important;
+    }
+    
+    .bg-welcome{
+        background:#DA0080;
+    }
+
+.bg-welcome1{
+        background:#DA0080;
+        height: 769px;
+ }
+
+ .bg-welcome h1{
+    font-family: 'bold';
+}
+.margen-derecha a{
+    font-family:'medium';
+}
+.letra-redimelo a{
+    font-family: 'bold';
+}
+.color-redimelo h1{
+    font-family: 'bold';
+}
+
+.color-redimelo h2{
+    font-family: 'light';
+}
+.color-redimelo label{
+    font-family: 'light';
+}
+
+.color-redimelo button{
+
+    font-family: 'light';
+
+}
+.bg-welcome3 h1 {
+    font-family: 'bold';
+}
+
+.bg-welcome3 li {
+    font-family: 'light';
+}
+.bg-welcome3 h3 {
+    font-family: 'light';
+}
+.bg-welcome3 p {
+    font-family: 'bold';
+}
+.text-center h1{
+    font-family: 'bold';
+}
+
+.container h4{
+    font-family: 'bold';
+}
+.container h1{
+    font-family: 'bold';
+}
+
+.como-funciona label{
+    font-family: 'light';
+}
+ .logo-welcome{
+    width: 29%;
+    }
+
+  .bg-welcome1 .logo-welcome{
+    width: 122px;
+    margin-left: 139px;
+    }
+
+ .bg-welcome .logo-imagen{
+        width: 400px;
+        margin-right: -66px;
+    }
+
+footer{
+    position:relative;
+    left:0px;
+    bottom:0px;
+    height:225px;
+    width:100%;
+    background:#242729;
+}
+
+
+a:hover,a:focus{
+text-decoration:none;
+color: #fff !important;
+
+}
+a{
+    color: #fff !important;
+}
+.btn-redimelo{
+    background:#DA0080;
+    font-size: 22px !important;
+    width: 200px;
+    color: #fff;
+    border-radius: 49px !important;
+    
+}
+
+.btn-redimeloform{
+    background:#242729;
+    width: 100px;
+    border-radius: 49px !important;
+    color:#fff !important;
+}
+
+.margin-texto{
+    margin-top: 140px;
+}
+
+.margen1{
+
+    padding-top: 80px;
+}
+
+.texto-redime{
+
+    margin-top: 50px;
+
+}
+
+.bg-welcome3{
+    background: #B8013B;
+
+}
+.main-header{
+    background: #DA0080 !important;
+}
+
+.como-funciona{
+    color: #B8013B;
+    
+}
+
+.bg-welcome4{
+    background: #CB702C;
+}
+
+.margen{
+        /* padding-bottom: 6px;  */
+
+}
+.trabajo{
+    padding-left: 195px;
+}
+.vista-redimelo{
+background: #780052
+}
+
+.color-redimelo
+{
+    padding-bottom: 245px;
+    padding-top: 83px;
+}
+
+.margen-derecha{
+    margin-left: 154px;
+}
+
+.pregon{
+    color:#CB702C
+    
+}
+.bg-welcome4 h2{
+    font-family: 'bold';
+}
+.bg-welcome4 h4{
+    font-family: 'bold';
+}
+
+.bg-welcome4 h3{
+
+    font-family: 'light';
+}
+
+.bg-welcome4 li {
+
+    font-family: 'light';
+}
+
+.margen-pauta{
+    margin-top: 35px !important;   
+    margin-left: 101px;
+
+}
+.trabajatext{
+    margin-left: 371px !important;
+}
+.margen-texttrabajarig{
+    margin-right: -191px !important;
+}
+.letra-empezar{
+    margin-right: 122px;
+    margin-top: 36px;
+}
+.letra-from{
+    margin-left: -177px;
+
+}
+.marge-hacemos{
+    margin-left: 342px;
+}
+.letra-proyecto{
+
+    margin-top: 54px;
+}
+
+.conpauta{
+    padding-right: 112px;
+    padding-left: 311px;
+    margin-right: auto;
+    margin-left: auto;
+} 
+}
+
+
+.min-height{
+    min-height: 583px;
+}
